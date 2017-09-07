@@ -1,0 +1,23 @@
+[
+  {
+    "customerName": "John",
+    "order": [
+      {
+        "Cafe Latte": 2,
+        "Blueberry Muffin": 1,
+        "Choc Mudcake": 1
+      }
+    ]
+  },
+
+  {
+    "customerName": "Jane",
+    "order": [
+      {
+        "Cafe Latte": 2,
+        "Blueberry Muffin": 1,
+        "Choc Mudcake": 1
+      }
+    ]
+  }
+]
