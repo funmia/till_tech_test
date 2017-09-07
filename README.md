@@ -46,7 +46,7 @@ You may use whatever technologies you see fit.
 #### My Solution
 
 ## Classes
-- Menu
+- Shop
 - Till
 - Order
 - Calculator
